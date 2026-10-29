@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Operating System temporary files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+.DS_Store
+desktop.ini
+
+# Log files
+*.log
+npm-debug.log*
+
+# Private files
+# Hapus tanda pagar di bawah ini jika tidak ingin CV pribadi Anda ter-upload ke publik:
+# CV_*.pdf
+
